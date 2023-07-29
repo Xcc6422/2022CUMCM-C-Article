@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.2)  29 JUL 2023 17:05
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.2)  29 JUL 2023 20:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1112,45 +1112,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 582--584
 
  []
 
-[19] (e:/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-)
-
-Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Could not resolve font "SimSun/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Font family 'SimSun(2)' created for font 'SimSun' with
-(fontspec)             options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
- [20] [21] 
+[19] 
 AED: lastpage setting LastPage
-[22] (./A.aux)
+[20] (./A.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `A.out' has not changed.
 (rerunfilecheck)             Checksum: 1A2939703B6FE6C8F783CA5AB081EB9E;2657.
  ) 
 Here is how much of TeX's memory you used:
- 29540 strings out of 476179
- 637276 string characters out of 5813073
- 1621024 words of memory out of 5000000
- 49814 multiletter control sequences out of 15000+600000
- 510546 words of font info for 120 fonts, out of 8000000 for 9000
+ 29323 strings out of 476179
+ 634693 string characters out of 5813073
+ 1506024 words of memory out of 5000000
+ 49608 multiletter control sequences out of 15000+600000
+ 507195 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 503i,12n,503p,3282b,2612s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 503i,12n,503p,3282b,885s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on A.pdf (22 pages).
+Output written on A.pdf (20 pages).
